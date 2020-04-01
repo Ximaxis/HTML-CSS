@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Poppins Medium';
+    src: url('fonts/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('fonts/OpenSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Light';
+    src: url('fonts/RobotoCondensed-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Regular';
+    src: url('fonts/RobotoCondensed-Regular.ttf');
+}
